@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af6ba96e-bdeb-4ace-b7f6-fc98500a0639" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Notebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tv.java" afterDir="false" />
+    <list default="true" id="af6ba96e-bdeb-4ace-b7f6-fc98500a0639" name="Changes" comment="This is our code">
+      <change beforePath="$PROJECT_DIR$/src/Notebook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tv.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662913947037</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is our code">
+      <created>1662983228498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662983228498</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is our code" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is our code" />
   </component>
 </project>
